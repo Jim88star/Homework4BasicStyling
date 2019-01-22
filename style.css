@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(252, 252, 170);
+}
+
+p,
+ul,
+ol {
+  font-size: 20px;
+}
+
+h1,
+h2,
+h3 {
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+}
